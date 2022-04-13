@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Consumindo API
+
+Projeto construído com o objetivo de consumir uma API de produtos e rederizar em cards conforme a busca. É possivel
+acessar no seguinte link: 
+
+## Tecnologias
+
+* Javascript/React
+* Axios
+* CSS
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
