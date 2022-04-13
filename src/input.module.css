@@ -1,0 +1,11 @@
+.input{
+    display: flex;
+    width: 590px;
+    height: 30px;
+    outline: none;
+    font-size: 19px;
+}
+
+.div{
+    display: flex-column;
+}
